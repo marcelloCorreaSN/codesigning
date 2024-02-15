@@ -1,22 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<record_update>
-  <sn_kmf_record_signature>
-    <certificate_alias>027920209810021024eee85dde3bf200</certificate_alias>
-    <document_id>ace374bb97044210a4153247f053afa6</document_id>
-    <field_list>active,collection,order,sys_class_name,client_callable,condition,action_insert,rest_method_text,rest_service_text,script,when</field_list>
-    <is_attachment>false</is_attachment>
-    <purpose>wild_card_purpose</purpose>
-    <signature>ih8ufR2qAAaQoOOCEjXz7l6OSF9m7D/P6P8yhp/L7uZCCbZSZBsSRzRHEMqqA1+B7pCnsP8B+LVRg4eh4P0l1do1/57KfxoSFAcbKhPNdHw96VKWathMWVi/XZ/HhA/E+U441meC2DL/bnZ/4SjNlpIoF0ujbJ/HxAis/MYcDOMLBVuZBYk3oZO2LaWER2p0TRsJ32yGiGAfXSYlq4zZHM3uiZ2rywr7OcME1GSuIdlhYM11xJ+nJV1iufGL0kOif9gDyikDGgY69/oJPFWQKc2Y/zEt2vS1JlSzZ25LophBZMoATG9Ax1bcBqHKWVCLTdGY5DQG8uXLG2XctZSU2sfcdzAw2074gBGG8QLM5rpBaVIor4LFLJH1QfMiy1gEg3oOIe3dUkCj5x4xE/+zIZeaU7x3DlSLA4183/mGxJTcbBBCA1t/TqcWS1VBH95eBENG9oh2odybC0oRbGzMTjjgBMhWa2EPf6Af4oP5z+ZjiX0DfpVC259BvcD3QpmtGCSbstGtzagkWyn42qUhaZAMYLzdCKFqYf6uNOqFD1Z0ZfslTTuA/a3XorhYab+E/OzBLZ3wXFHZvnNUcf0QrZ+UGQdJCzqEUqLajbZZTq60BzpJ1adiNZDgwP3NK066LUG+J/3aykjZOHX4mesVlktq+HZk1w37steYAdLQ360=</signature>
-    <signature_algorithm>SHA512withRSA</signature_algorithm>
-    <table_name>sys_script</table_name>
-    <validation_params>{"fVersion":"2.0.0"}</validation_params>
-    <signature_timestamp>{"econtent_type":"com.snc.core.codesigning.timestamp.agents.response.CodeSigningTimeStampResponse","econtent":{"status":{"code":"GRANTED","infomation":"The time stamp is successfully granted.","failure_message":""},"timestamp_token":{"econtent_type":"com.snc.core.codesigning.timestamp.agents.response.TimeStampToken","econtent":{"encapsulated_content":{"econtent_type":"com.snc.core.codesigning.timestamp.agents.response.TimeStampContent","econtent":{"version":"v1","serial_number":"20240208022753","message_imprint":{"econtent_type":"com.snc.core.codesigning.timestamp.agents.request.SignatureHashMessageImprint","econtent":{"message_digest":[-22,-69,50,68,-100,9,100,-98,-48,45,27,-56,72,64,81,112,-89,-35,-43,-68,15,97,63,-31,27,30,75,-97,-6,-26,10,30],"hash_algorithm":"SHA3-256"}},"time_stamp":"20240208022753Z","time_accuracy":"040000Z"}},"signer_infos":[{"signature":[116,86,-96,74,67,115,-4,-24,88,-120,92,3,-44,61,49,-75,76,-121,108,71,-118,87,-99,-17,59,-8,-21,-99,-99,78,76,105,29,103,-100,95,44,-35,42,-116,116,-71,-51,-10,-88,38,-34,22,-6,3,-67,14,37,-36,99,82,-128,114,38,-27,-22,109,67,-122,-119,-32,123,1,-63,-25,24,-66,-78,113,73,115,-59,-59,-19,-6,-92,40,49,61,-18,-62,-88,77,-35,-107,19,-3,86,52,45,16,92,14,-87,108,-108,35,127,57,-25,-121,-105,-10,-43,-91,61,-57,109,-33,71,59,-71,-75,-118,-12,84,-78,-5,-32,41,18,-22,112,123,-10,-54,-92,74,61,50,93,-16,-45,-16,-40,12,-79,-98,-103,3,118,-71,-95,81,115,-16,-122,-59,-13,-117,66,-92,-2,-16,118,-17,-80,51,126,1,-34,124,120,-112,110,7,-87,-6,63,-116,102,53,35,-90,93,109,72,10,84,-47,-68,71,55,-63,-34,-128,-125,66,-79,41,-33,-67,-38,14,-100,-75,16,-73,-59,22,25,-10,100,-28,118,-123,-108,52,-52,-125,82,-14,-74,-88,-113,-84,23,3,13,79,108,24,89,-96,-58,-85,86,-4,-122,117,-14,125,42,-79,-97,-38,62,80,-112,41,-45,19,-68,-128,106,-39,-1,-51,104,10,70,96,6,-19,14,43,-107,-38,82,57,-62,13,-25,50,-5,65,-116,42,0,-61,58,-69,122,-51,91,-108,-56,68,-15,12,73,-84,-54,-59,34,-46,-19,67,92,-12,104,-127,-42,80,-70,-6,66,96,-29,110,-30,-62,-18,-30,9,-62,104,-80,12,9,102,-8,14,-58,-5,111,109,-84,-73,-127,-100,-2,-43,63,-80,-95,-81,6,-11,-60,14,97,-11,-82,-51,66,2,39,-20,40,107,-121,-127,-5,8,20,126,-67,-61,99,-81,33,-26,55,55,-74,-83,-6,-50,17,-69,106,-55,116,-123,-122,55,-58,60,-30,-82,117,126,-77,77,-30,117,-120,-29,-106,58,38,-108,-7,-84,75,100,12,34,31,-36,85,20,72,-102,-63,19,119,-16,102,73,71,54,-62,0,4,-39,50,-69,118,78,107,-15,-24,-80,45,-5,62,-41,19,72,117,-121,127,112,112,4,98,111,61,39,22,-24,115,-33,-99,-7,-69,10,-99,-25,42,-116,-70,-23,-45,110,102,20,-103,-83,-71,-2,-109,-12,-15,-40,-118,-1,-51,-79,89,-32,9,-19,-95,61,-27,29,-4,-82,-45,-3,-21,-119,-21,86,38,106,-111,-27,-93,-7,120,8,-107,-77,89,-30,61,117,-102,114,-74,-78,-40,69,-128,0,58,102,-63,64,8,-67,-60,21],"signature_algorithm_identifier":"SHA512withRSA","certificate_identifier":"code_signing_key_027920209810021024eee85dde3bf200"}]}}}}</signature_timestamp>
-    <sys_class_name>sn_kmf_record_signature</sys_class_name>
-    <sys_id>ac39e0e5c08a433cbf5e53c1b0867984</sys_id>
-    <sys_name/>
-    <sys_package>1ccadd4ccfd72010ffa1acc9e4cfcd7b</sys_package>
-    <sys_policy>protected</sys_policy>
-    <sys_scope>global</sys_scope>
-    <sys_update_name>sn_kmf_record_signature_ac39e0e5c08a433cbf5e53c1b0867984</sys_update_name>
-  </sn_kmf_record_signature>
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_kmf_record_signature">
+    <sn_kmf_record_signature action="INSERT_OR_UPDATE">
+        <certificate_alias display_value="code_signing_key_027920209810021024eee85dde3bf200">027920209810021024eee85dde3bf200</certificate_alias>
+        <document_id>ace374bb97044210a4153247f053afa6</document_id>
+        <field_list>active,collection,order,sys_class_name,client_callable,condition,action_insert,rest_method_text,rest_service_text,script,when</field_list>
+        <is_attachment>false</is_attachment>
+        <purpose display_value="">wild_card_purpose</purpose>
+        <signature>ih8ufR2qAAaQoOOCEjXz7l6OSF9m7D/P6P8yhp/L7uZCCbZSZBsSRzRHEMqqA1+B7pCnsP8B+LVRg4eh4P0l1do1/57KfxoSFAcbKhPNdHw96VKWathMWVi/XZ/HhA/E+U441meC2DL/bnZ/4SjNlpIoF0ujbJ/HxAis/MYcDOMLBVuZBYk3oZO2LaWER2p0TRsJ32yGiGAfXSYlq4zZHM3uiZ2rywr7OcME1GSuIdlhYM11xJ+nJV1iufGL0kOif9gDyikDGgY69/oJPFWQKc2Y/zEt2vS1JlSzZ25LophBZMoATG9Ax1bcBqHKWVCLTdGY5DQG8uXLG2XctZSU2sfcdzAw2074gBGG8QLM5rpBaVIor4LFLJH1QfMiy1gEg3oOIe3dUkCj5x4xE/+zIZeaU7x3DlSLA4183/mGxJTcbBBCA1t/TqcWS1VBH95eBENG9oh2odybC0oRbGzMTjjgBMhWa2EPf6Af4oP5z+ZjiX0DfpVC259BvcD3QpmtGCSbstGtzagkWyn42qUhaZAMYLzdCKFqYf6uNOqFD1Z0ZfslTTuA/a3XorhYab+E/OzBLZ3wXFHZvnNUcf0QrZ+UGQdJCzqEUqLajbZZTq60BzpJ1adiNZDgwP3NK066LUG+J/3aykjZOHX4mesVlktq+HZk1w37steYAdLQ360=</signature>
+        <signature_algorithm>SHA512withRSA</signature_algorithm>
+        <sys_class_name>sn_kmf_record_signature</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-08 07:25:05</sys_created_on>
+        <sys_id>ac39e0e5c08a433cbf5e53c1b0867984</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="AmazonCodeSigningDemo" source="x_278065_amazoncod">46c370b397404210a4153247f053aff5</sys_package>
+        <sys_policy>protected</sys_policy>
+        <sys_scope display_value="AmazonCodeSigningDemo">46c370b397404210a4153247f053aff5</sys_scope>
+        <sys_update_name>sn_kmf_record_signature_ac39e0e5c08a433cbf5e53c1b0867984</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-08 07:25:05</sys_updated_on>
+        <table_name>sys_script</table_name>
+        <validation_params>{"fVersion":"2.0.0"}</validation_params>
+    </sn_kmf_record_signature>
 </record_update>
