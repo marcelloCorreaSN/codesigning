@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <record_update>
   <sn_kmf_record_signature>
@@ -19,4 +20,30 @@
     <sys_scope>global</sys_scope>
     <sys_update_name>sn_kmf_record_signature_ac39e0e5c08a433cbf5e53c1b0867984</sys_update_name>
   </sn_kmf_record_signature>
+=======
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_kmf_record_signature">
+    <sn_kmf_record_signature action="INSERT_OR_UPDATE">
+        <certificate_alias display_value="code_signing_key_027920209810021024eee85dde3bf200">027920209810021024eee85dde3bf200</certificate_alias>
+        <document_id>ace374bb97044210a4153247f053afa6</document_id>
+        <field_list>active,collection,order,sys_class_name,client_callable,condition,action_insert,rest_method_text,rest_service_text,script,when</field_list>
+        <is_attachment>false</is_attachment>
+        <purpose display_value="">wild_card_purpose</purpose>
+        <signature>ih8ufR2qAAaQoOOCEjXz7l6OSF9m7D/P6P8yhp/L7uZCCbZSZBsSRzRHEMqqA1+B7pCnsP8B+LVRg4eh4P0l1do1/57KfxoSFAcbKhPNdHw96VKWathMWVi/XZ/HhA/E+U441meC2DL/bnZ/4SjNlpIoF0ujbJ/HxAis/MYcDOMLBVuZBYk3oZO2LaWER2p0TRsJ32yGiGAfXSYlq4zZHM3uiZ2rywr7OcME1GSuIdlhYM11xJ+nJV1iufGL0kOif9gDyikDGgY69/oJPFWQKc2Y/zEt2vS1JlSzZ25LophBZMoATG9Ax1bcBqHKWVCLTdGY5DQG8uXLG2XctZSU2sfcdzAw2074gBGG8QLM5rpBaVIor4LFLJH1QfMiy1gEg3oOIe3dUkCj5x4xE/+zIZeaU7x3DlSLA4183/mGxJTcbBBCA1t/TqcWS1VBH95eBENG9oh2odybC0oRbGzMTjjgBMhWa2EPf6Af4oP5z+ZjiX0DfpVC259BvcD3QpmtGCSbstGtzagkWyn42qUhaZAMYLzdCKFqYf6uNOqFD1Z0ZfslTTuA/a3XorhYab+E/OzBLZ3wXFHZvnNUcf0QrZ+UGQdJCzqEUqLajbZZTq60BzpJ1adiNZDgwP3NK066LUG+J/3aykjZOHX4mesVlktq+HZk1w37steYAdLQ360=</signature>
+        <signature_algorithm>SHA512withRSA</signature_algorithm>
+        <sys_class_name>sn_kmf_record_signature</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-08 07:25:05</sys_created_on>
+        <sys_id>ac39e0e5c08a433cbf5e53c1b0867984</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="AmazonCodeSigningDemo" source="x_278065_amazoncod">46c370b397404210a4153247f053aff5</sys_package>
+        <sys_policy>protected</sys_policy>
+        <sys_scope display_value="AmazonCodeSigningDemo">46c370b397404210a4153247f053aff5</sys_scope>
+        <sys_update_name>sn_kmf_record_signature_ac39e0e5c08a433cbf5e53c1b0867984</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-08 07:25:05</sys_updated_on>
+        <table_name>sys_script</table_name>
+        <validation_params>{"fVersion":"2.0.0"}</validation_params>
+    </sn_kmf_record_signature>
+>>>>>>> 49bb9feb43f7a9753352917f724e3caac54ebf31
 </record_update>
